@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/rails/rails.git
-  revision: f7353283fd771e99b9675bcb9394e398964195f8
+  revision: 9f01421d7db090f4f79c362e59bb45cf4ba2a752
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -103,7 +103,7 @@ GEM
     backport (1.2.0)
     base64 (0.2.0)
     benchmark (0.3.0)
-    bigdecimal (3.1.6)
+    bigdecimal (3.1.7)
     bindex (0.8.1)
     bootsnap (1.18.3)
       msgpack (~> 1.2)
@@ -133,14 +133,14 @@ GEM
     globalid (1.2.1)
       activesupport (>= 6.1)
     htmlbeautifier (1.4.3)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     importmap-rails (2.0.1)
       actionpack (>= 6.0.0)
       activesupport (>= 6.0.0)
       railties (>= 6.0.0)
     io-console (0.7.2)
-    irb (1.11.2)
+    irb (1.12.0)
       rdoc
       reline (>= 0.4.2)
     jaro_winkler (1.5.6)
@@ -176,7 +176,7 @@ GEM
     net-smtp (0.4.0.1)
       net-protocol
     nio4r (2.7.0)
-    nokogiri (1.16.2-x86_64-linux)
+    nokogiri (1.16.3-x86_64-linux)
       racc (~> 1.4)
     parallel (1.24.0)
     parser (3.3.0.5)
